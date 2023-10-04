@@ -159,3 +159,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+<<<<<<< HEAD
+=======
+
+# Anything in the Data and Report folder but keep the folder
+Data/*
+Report/*
+>>>>>>> fbaffc2a5b824c9086f3a057050f45d1d2a8dc3b
