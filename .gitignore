@@ -160,5 +160,6 @@ cython_debug/
 #.idea/
 
 
-# Anything in the Data folder
+# Anything in the Data and Report folder but keep the folder
 Data/*
+Report/*
