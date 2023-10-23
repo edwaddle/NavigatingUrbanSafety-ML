@@ -2,7 +2,4 @@ pandas
 ydata-profiling
 matplotlib==3.7.3
 seaborn
-<<<<<<< HEAD
-=======
 scikit-learn
->>>>>>> 73d30e088cf60a7f5dfda821808b028873417616
